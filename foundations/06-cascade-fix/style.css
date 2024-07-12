@@ -18,7 +18,7 @@ body {
 }
 
 .button.confirm {
-  background-color: green;
+  background: green;
   color: white;
   font-weight: bold;
 } 
